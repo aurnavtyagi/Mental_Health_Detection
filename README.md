@@ -11,6 +11,10 @@ A machine learning-based system for detecting mental health indicators (specific
 - 📈 **Analytics**: View trends and distributions of analysis results
 - ⚙️ **Customizable Threshold**: Adjustable depression detection sensitivity
 
+
+## Sample screenshots
+<img width="1874" height="949" alt="Screenshot 2025-12-12 194019" src="https://github.com/user-attachments/assets/a68146ed-d9ee-4fd8-adc7-f23697e39181" />
+
 ## Project Structure
 
 ```
