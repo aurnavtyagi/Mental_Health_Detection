@@ -12,8 +12,11 @@ A machine learning-based system for detecting mental health indicators (specific
 - ⚙️ **Customizable Threshold**: Adjustable depression detection sensitivity
 
 
-## Sample screenshots
+## Sample Screenshots
 <img width="1874" height="949" alt="Screenshot 2025-12-12 194019" src="https://github.com/user-attachments/assets/a68146ed-d9ee-4fd8-adc7-f23697e39181" />
+<img width="1872" height="947" alt="Screenshot 2025-12-12 200801" src="https://github.com/user-attachments/assets/20b408e3-3dc1-427b-9058-d447ecb25024" />
+<img width="1877" height="954" alt="Screenshot 2025-12-12 200810" src="https://github.com/user-attachments/assets/9518a3da-907a-402f-91b5-c9a4df0da7d8" />
+
 
 ## Project Structure
 
