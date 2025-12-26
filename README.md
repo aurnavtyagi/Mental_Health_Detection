@@ -2,6 +2,11 @@
 
 A machine learning-based system for detecting mental health indicators (specifically depression) from text/tweets using Natural Language Processing and Logistic Regression.
 
+# live website link
+ https://mentalhealthdetection-oootyagi.streamlit.app/
+
+
+
 ## Features
 
 - 🧠 **Machine Learning Model**: Trained Logistic Regression model with ~95.6% accuracy
